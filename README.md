@@ -1,2 +1,2 @@
-# Glassmorphism-Design-CSS
-Glassmorphism Design CSS || HTML CSS JS
+# first-Design-CSS
+first Design CSS || HTML CSS JS
